@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guesssecretword/static/css/main.0ac0eb64.css",
+    "main.js": "/guesssecretword/static/js/main.89c917cb.js",
+    "static/js/787.c5925aa8.chunk.js": "/guesssecretword/static/js/787.c5925aa8.chunk.js",
+    "static/media/partyPopper.png": "/guesssecretword/static/media/partyPopper.52ea1965d3310d394022.png",
+    "index.html": "/guesssecretword/index.html",
+    "main.0ac0eb64.css.map": "/guesssecretword/static/css/main.0ac0eb64.css.map",
+    "main.89c917cb.js.map": "/guesssecretword/static/js/main.89c917cb.js.map",
+    "787.c5925aa8.chunk.js.map": "/guesssecretword/static/js/787.c5925aa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ac0eb64.css",
+    "static/js/main.89c917cb.js"
+  ]
+}
